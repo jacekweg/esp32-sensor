@@ -14,7 +14,7 @@ PCB project:
 
 ![alt text](https://github.com/jacekweg/esp32-sensor/blob/main/img/board.JPG "Image")
 
-# Bread board
+# Breadboard
 
 Then the design was tested on a breadboard:
 
